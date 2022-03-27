@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EMSI Community</string>
+    <string name="liste_des_etudiants">Liste des etudiants</string>
+    <string-array name="villes">
+        <item>Marrakech</item>
+        <item>Fes</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>
